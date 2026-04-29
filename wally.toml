@@ -1,0 +1,10 @@
+[package]
+name = "cometahn142/objectpool"
+description = "ObjectPool For Roblox"
+version = "0.1.1"
+license = "MIT"
+authors = ["Cometahn142"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
